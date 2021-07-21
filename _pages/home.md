@@ -7,7 +7,7 @@ header:
 excerpt: >
   The website introduces my research interests, education background and publications<br />
 feature_row:
-  - image_path: /assets/images/homepage.jpeg
+  - image_path: /assets/images/unsplash-gallery-image-1.jpg
     alt: "customizable"
     title: "About me"
    excerpt: "Hi! My name is Haijie Guan(关海杰). Now I'm pursing my PhD from Intelligent Vehicle Research Center in School of Mechanical Engineering at Beijing Institute of Technology.
