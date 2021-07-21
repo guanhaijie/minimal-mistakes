@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haijie Guan"
+title                    : "Haijie Guan's Homepage"
 title_separator          : "-"
-subtitle                 : "Research interest and some other information"
+subtitle                 : "No pain, no gain"
 name                     : "Haijie Guan"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/cv"
 repository               : #"guanhaijie/minimal-mistakes"
-teaser                   : #"apple-touch-icon.png"
-logo                     : #"/assets/images/unsplash-gallery-image-1.jpg"
+teaser                   : "apple-touch-icon.png"
+logo                     : "/assets/images/unsplash-gallery-image-1.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
