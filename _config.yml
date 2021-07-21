@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Haijie Guan's HomePage"
 title_separator          : "-"
-subtitle                 : "Try to do"
+subtitle                 : "Practice makes perfect"
 name                     : &name "Haijie Guan" # &name is a YAML anchor which can be *referenced later
 description              : &description "PhD @ Beijing Institute of Technology"
 url                      : #https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
