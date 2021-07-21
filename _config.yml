@@ -106,7 +106,6 @@ author:
   bio              : "PhD @Beijing Institute of Technology."
   location         : "Beijing, China"
   email            : "guanhaijie1995@163.com"
-  Instagram        : "bigg_Try2"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -138,7 +137,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: https://github.com/guanhaijie
+      # url: https://github.com/guanhaijie
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
